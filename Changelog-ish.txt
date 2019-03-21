@@ -1,0 +1,18 @@
+
++Program worked without error
+
++Changed the output to marked image
+
++Changed the way nodes are created
++Changed the way connections are made
++Changed the way output image is marked
+
++Bug fixes
+
++Reshaped the structure of code
+Now new algorithms can be implemented easier
+
++Added comments
+
++Renamed variables
+
